@@ -25,6 +25,7 @@ Harness the power of our GPT-based chat model for advanced cyber operations and 
 - Cryptocurrency transaction tracing and analysis
 - Phishing detection and malware forensics
 - Offensive security measures and penetration testing
+- More, more, more, just chat!
 
 Leverage our **GPT-4o** based chat model to elevate your cyber investigation proficiency with expert guidance and advanced methodologies.
 

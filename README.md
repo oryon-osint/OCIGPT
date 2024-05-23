@@ -6,6 +6,7 @@ Harness the power of our GPT-based chat model for advanced cyber operations and 
 - **OPSEC (Operational Security):** Techniques to maintain rigorous operational security and data protection.
 - **CTI (Cyber Threat Intelligence):** Comprehensive threat intelligence analysis and reporting.
 - **DFIR (Digital Forensics and Incident Response):** In-depth digital forensics and incident response strategies.
+- So much more!
 
 ## Core Features
 

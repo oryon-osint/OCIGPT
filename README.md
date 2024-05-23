@@ -25,8 +25,10 @@ Harness the power of our GPT-based chat model for advanced cyber operations and 
 - Phishing detection and malware forensics
 - Offensive security measures and penetration testing
 
+Leverage our **GPT-4o** based chat model to elevate your cyber investigation proficiency with expert guidance and advanced methodologies.
+
 ## Start Chat!
 - Go to chat: https://oryon.systems/gpt
-- Visit Our Website: [oryon.systems](https://oryon.systems)
+- Website: [oryon.systems](https://oryon.systems)
 
-Leverage our GPT-based chat model to elevate your cyber investigation proficiency with expert guidance and advanced methodologies.
+

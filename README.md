@@ -27,9 +27,14 @@ Harness the power of our GPT-based chat model for advanced cyber operations and 
 
 Leverage our **GPT-4o** based chat model to elevate your cyber investigation proficiency with expert guidance and advanced methodologies.
 
-> This chat model requires access to GPT-4 Plus for optimal performance and advanced capabilities.
+## Requirements
+
+This chat model requires access to **GPT-4 Plus** for optimal performance and advanced capabilities.
+
+## Links
 
 - **Go to chat!**: https://oryon.systems/gpt
+- Hello GPT-4o: https://openai.com/index/hello-gpt-4o/
 
 
 

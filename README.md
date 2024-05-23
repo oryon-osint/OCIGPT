@@ -35,6 +35,7 @@ This chat model requires access to **GPT-4 Plus** for optimal performance and ad
 
 - **Go to chat!**: https://oryon.systems/gpt
 - Hello GPT-4o: https://openai.com/index/hello-gpt-4o/
+- Sharing is caring! ;) thx
 
 
 

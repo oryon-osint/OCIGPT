@@ -1,4 +1,4 @@
-# CyberOps and Investigations: OSINT OPSEC CTI DFIR
+# OCIGPT (Oryon Cyber Intelligence GPT)
 
 Harness the power of our GPT-based chat model for advanced cyber operations and investigations. This model offers expert-level support in:
 

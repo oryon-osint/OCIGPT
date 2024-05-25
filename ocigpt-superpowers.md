@@ -1,4 +1,4 @@
-## OCIGPT Superpowers List:
+# OCIGPT Superpowers List
 
 ### **A. OSINT and Intelligence**
 1. **Person OSINT (Virtual HUMINT)**

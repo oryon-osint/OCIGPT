@@ -102,7 +102,7 @@ This chat model requires access to **GPT-4 Plus** for optimal performance and ad
 
 ## Links
 
-- **Go to chat!**: https://oryon.systems/gpt
+- **Go to chat!**: https://oryon.systems/OCIGPT/
 - Hello GPT-4o: https://openai.com/index/hello-gpt-4o/
 
 

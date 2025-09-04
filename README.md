@@ -61,3 +61,11 @@ It leverages frameworks and standards including **MITRE ATT&CK, NIST, OWASP, OWA
 
 This model is provided for **educational, research, and defensive purposes only**.  
 It does **not** endorse or support any unlawful or malicious activity.
+
+---
+#CyberSecurity #InfoSec #ThreatIntelligence #CTI #OSINT #OpenSourceIntelligence  
+#DigitalForensics #DFIR #IncidentResponse #CyberInvestigations #EthicalHacking #PenTesting  
+#RedTeaming #BlueTeaming #HackThePlanet #SecurityOps #BugBounty  
+#AI #LLM #GenAI #LangChain #Automation #SOAR #SIEM #XDR  
+#Privacy #OPSEC #GDPR #NIS2 #AIAct #DataProtection #CyberLaw  
+#MITREATTACK #MISP #Maltego #Spiderfoot #KaliLinux #CyberTools

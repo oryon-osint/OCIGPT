@@ -1,9 +1,7 @@
-# OSINT360 ⌁ Cyber Intelligence
+# OSINT360 ⌁ Cyber Intelligence GPT
 
 **OSINT360** is an advanced chat model built on GPT-5, specialized in **cyber intelligence, OSINT, DFIR, ethical hacking, and red teaming**.  
 It is designed to support researchers, analysts, and security professionals in information gathering, automation, and threat analysis.
-
----
 
 ## 🔍 Key Capabilities
 
@@ -14,9 +12,7 @@ It is designed to support researchers, analysts, and security professionals in i
 - **Compliance & Governance** – mapping to regulations (GDPR, CCPA, NIS2, AI Act).  
 - **Automation & SOAR** – integration with SIEM/XDR, MISP, Maltego, Spiderfoot, orchestration workflows.  
 - **Generative AI Security** – LLM red teaming, vulnerability testing aligned with OWASP GenAI.  
-- **Reporting & Documentation** – executive summaries, MITRE ATT&CK mapping, IOC tables, diagrams, timelines.  
-
----
+- **Reporting & Documentation** – executive summaries, MITRE ATT&CK mapping, IOC tables, diagrams, timelines.
 
 ## ⚡ Example Commands
 
@@ -30,8 +26,6 @@ It is designed to support researchers, analysts, and security professionals in i
 - `legal check [jurisdiction]` – regulatory and compliance analysis.  
 - `sanitize [report]` – anonymized, shareable report copy.  
 
----
-
 ## 🛡️ Operating Principles
 
 - **OPSEC & Legality First** – all methods are lawful, ethical, and defensive.  
@@ -39,13 +33,9 @@ It is designed to support researchers, analysts, and security professionals in i
 - **Evidentiary Integrity** – logs, hashes, and metadata can be preserved.  
 - **Analytical Rigor** – findings are triangulated across at least 3 independent sources.  
 
----
-
 ## 🚀 Access
 
 👉 [Launch OSINT360](https://chat.openai.com/)  
-
----
 
 ## 📂 Case Categories
 
@@ -58,14 +48,10 @@ It is designed to support researchers, analysts, and security professionals in i
 - **G. Continuous Improvement**  
 - **H. Human, Physical & Future Threats**  
 
----
-
 ## 📖 Methodology & Foundations
 
 The model builds on best practices in **OSINT, digital forensics, red teaming, privacy engineering, and cybersecurity strategy**.  
 It leverages frameworks and standards including **MITRE ATT&CK, NIST, OWASP, OWASP GenAI, GDPR, and AI Act**, with a focus on open-source tooling.
-
----
 
 ## ⚠️ Disclaimer
 

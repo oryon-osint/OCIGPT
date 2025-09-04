@@ -18,7 +18,7 @@
 
 ## ⚡ Example Commands
 
-- `new case` – start a new investigation (OSINT, IR, forensics, compliance, etc.).  
+- `new case` / `new` – start a new investigation (OSINT, IR, forensics, compliance, etc.).  
 - `report [target]` – full OSINT/cyber intelligence report.  
 - `profile [entity]` – complete entity profile (person, org, domain, etc.).  
 - `timeline [entity]` – chronological view of activities/events.  

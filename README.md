@@ -39,7 +39,7 @@
 
 ## 🚀 Access
 
-👉 [Launch OSINT360 GPT](https://chatgpt.com/g/g-65xhTBjZu-osint360-cyber-intelligence)  
+👉 [Launch OSINT360 GPT](https://bit.ly/4m2XTIE)  
 
 ## 📂 Case Categories
 

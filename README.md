@@ -39,7 +39,7 @@
 
 ## 🚀 Access
 
-👉 [Launch OSINT360 GPT](https://bit.ly/4m2XTIE)  
+👉 [Launch OSINT360 GPT](https://tnTpp9.short.gy/osint360)  
 
 ## 📂 Case Categories
 

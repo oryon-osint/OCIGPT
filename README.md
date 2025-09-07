@@ -1,4 +1,4 @@
-# OSINT360 ⌁ Cyber Intelligence GPT
+# [OSINT360 ⌁ Cyber Intelligence GPT](https://tnTpp9.short.gy/osint360-gpt) 
 
 ![AI](https://img.shields.io/badge/AI-GPT5-critical)
 
@@ -39,7 +39,7 @@
 
 ## 🚀 Access
 
-👉 [Launch OSINT360 GPT](https://tnTpp9.short.gy/osint360)  
+👉 [Launch OSINT360 GPT](https://tnTpp9.short.gy/osint360-gpt)  
 
 ## 📂 Case Categories
 

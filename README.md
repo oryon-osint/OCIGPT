@@ -123,7 +123,7 @@ OSINT360 GPT adheres to strict **OPSEC, legality, and evidentiary integrity** pr
 ## 📌 Example Usage
 
 ```bash
-/report threatintel.com                   # Generate a full-spectrum OSINT report on a domain
+/report threatintel.com        # Generate a full-spectrum OSINT report on a domain
 /enrich 192.168.100.45         # Enrich and investigate an IP address (network asset / infrastructure)
 /profile Microsoft Corporation # Build a detailed profile of a company or organization (corporate entity)
 /darkweb "stolen credit cards" # Search the dark web for mentions of sensitive data (financial/PII exposure)
@@ -143,7 +143,9 @@ OSINT360 GPT adheres to strict **OPSEC, legality, and evidentiary integrity** pr
 ```
 
 ## 🚀 Access
+
 **🔗 [Launch OSINT360 GPT](https://tnTpp9.short.gy/osint360-gpt)**  
+
 
 ## 📖 Methodology & Foundations
 
@@ -154,7 +156,3 @@ It leverages frameworks and standards including **MITRE ATT&CK, NIST, OWASP, OWA
 
 This model is provided for **educational, research, and defensive purposes only**.  
 It does **not** endorse or support any unlawful or malicious activity.
-
-## 📖 License
-
-This project is intended for **educational, research, and defensive security purposes only**. Users must comply with applicable laws and regulations. The maintainers assume no liability for misuse.

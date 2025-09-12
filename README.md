@@ -102,7 +102,7 @@ OSINT360 GPT adheres to strict **OPSEC, legality, and evidentiary integrity** pr
 **🔗 [Launch OSINT360 GPT](https://tnTpp9.short.gy/osint360-gpt)**  
 
 > **PS:** Heads-up — on complex queries it may take a moment to chew through large datasets.  
-> Deep analysis beats fast guesses 😉
+> Good intel takes time 😉
 
 ## 📖 Methodology & Foundations
 
